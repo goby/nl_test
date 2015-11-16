@@ -1,0 +1,10 @@
+.*
+*.o
+*.ko
+~*
+*.mod.c
+[Mm]odule*
+build/
+bin/
+target/
+*.log
